@@ -11,7 +11,7 @@ Personal checklist for setting up a new MacBook.
 ## 2. Install apps
 
 ```bash
-brew install --cask middleclick caffeine codex claude bentobox cleanshot fluidvoice presentify
+brew install --cask middleclick caffeine codex claude bentobox cleanshot fluidvoice presentify linearmouse
 ```
 
 **Important:** for Claude Code, use the `@latest` cask instead of the default one:
@@ -32,3 +32,4 @@ brew uninstall claude-code && brew install claude-code@latest
 | cleanshot | https://formulae.brew.sh/cask/cleanshot |
 | fluidvoice | https://formulae.brew.sh/cask/fluidvoice |
 | presentify | https://formulae.brew.sh/cask/presentify |
+| linearmouse | https://formulae.brew.sh/cask/linearmouse |
