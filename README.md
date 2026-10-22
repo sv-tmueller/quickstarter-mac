@@ -33,3 +33,7 @@ brew uninstall claude-code && brew install claude-code@latest
 | fluidvoice | https://formulae.brew.sh/cask/fluidvoice |
 | presentify | https://formulae.brew.sh/cask/presentify |
 | linearmouse | https://formulae.brew.sh/cask/linearmouse |
+
+## License
+
+© 2026 Thomas Mueller. All rights reserved. Source shown for reference only.
